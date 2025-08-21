@@ -29,3 +29,5 @@
 <h2>Contact Me</h2>
 
 [Discord](//discord.com/users/320366721414201344) or via [Email](mailto://majed@discordapplist.com).
+
+[!["Buy Me A Coffee"](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=realmajed&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/realmajed)
