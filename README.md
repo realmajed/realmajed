@@ -2,7 +2,7 @@
   I'm Majed
   <br><br><br>
 
- <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=realmajed&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" />
+ <img width="50%" height="50%" src="https://github-readme-stats-fast.vercel.app/api?username=realmajed&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" />
 </h3>
 
 
