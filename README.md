@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=red"/>
+  <img src="https://img.shields.io/badge/NestJS-1F2128?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
